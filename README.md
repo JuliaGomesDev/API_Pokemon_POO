@@ -4,27 +4,27 @@ A API Pokemon é um projeto desenvolvido dentro da disciplina Programação Orie
 
 **Linguagens e tecnologias**
 
+#Javascript
 ```
-Javascript | 
 Manipulação da API no Front-End
 ```
 
+#Java
 ```
-Java | 
 Linguagem de construção da API
 ```
 
+#Spring
 ```
-Spring | 
 Framework de desenvolvimento da API
 ```
 
+#Postgresql
 ```
-Postgresql | 
 Banco de dados da aplicação
 ```
 
+#HTML5 e CSS3
 ```
-HTML5 e CSS3 | 
-Estruturaçãoe estilização do projeto
+Estruturação e estilização do projeto
 ```
